@@ -15,8 +15,5 @@
 
 You can replace `number_list` with your own list of numbers to calculate the average for your specific data. 🧮📊🖨️
 
-**This is in Bold** 
-
-*This is in Italics*
  ![Screenshot 2023-10-05 064748](https://github.com/RaghavAP31527/average/assets/139637644/4c962876-c641-4d7c-ad3f-b08a6a32a72f)
 
