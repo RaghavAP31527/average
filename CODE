@@ -1,0 +1,13 @@
+def calculate_average(numbers):
+    if len(numbers) == 0:
+        return "The list is empty, cannot calculate the average."
+    
+    total = sum(numbers)
+    average = total / len(numbers)
+    
+    return average
+
+# Example usage:
+number_list = [1, 2, 3, 4, 5]
+result = calculate_average(number_list)
+print(f"The average is: {result}")
